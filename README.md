@@ -1,12 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**realSynced/realSynced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=realSynced&style=flat-square&color=blue" alt=""/>
 
-Here are some ideas to get you started: -->
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on learning, and mastering my skills in Web Design (currently Front End, but I hope to learn backend once I've got the popular frameworks down.)
-- 🌱 I’m currently learning CSS and JavaScript.
-- 👯 I’m looking to collaborate on innovatve projects where my skills are needed.
-- 📫 How to reach me: Discord @official.
-- 😄 Pronouns: He/Him
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
