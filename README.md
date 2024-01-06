@@ -8,11 +8,10 @@
 </div>
 
 
-<h1><center>
+<center><h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</center>
-</h1>
+</h1></center>
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*N6OtdkXNnYYyDhaQkG8Ydg.jpeg" width="600" height="300"/>
