@@ -20,7 +20,6 @@
 </div>
 
 ### 👨🏽‍💻 About Me :
-I'm a 
 
 - :telescope: I’m currently a student, learning Web Developing on my own time. In addition to that, I have experience with Java and Python coding languages..
 
