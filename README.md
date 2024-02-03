@@ -23,7 +23,7 @@
 
 - :telescope: I’m currently a student, learning Web Developing on my own time. In addition to that, I have experience with Java and Python coding languages..
 
-- :seedling: Learning Web Developing (HTML, CSS & JavaScript).
+- :seedling: Learning libraries such as ReactJS and NextJS Framework.
 
 - :zap: In my free time, I like to read articles about the latest tech discoveries, and work on projects.
 
