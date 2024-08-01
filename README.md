@@ -21,11 +21,11 @@
 
 ### 👨🏽‍💻 About Me :
 
-- :telescope: I’m currently a student, learning Web Developing on my own time. In addition to that, I have experience with Java and Python coding languages..
+- :telescope: I’m currently a High School student, working on projects & businesses in my freetimne. In addition to that, I like learning new programming languages, and am currently refining my skills in python.
 
-- :seedling: Learning libraries such as ReactJS and NextJS Framework.
+- :seedling: My favorite framework, in relation to the React programming language is NextJS. It's the first framework I've worked with, and I love it for it's complex simplicity.
 
-- :zap: In my free time, I like to read articles about the latest tech discoveries, and work on projects.
+- :zap: In my free time I like to read articles about the latest tech discoveries, and work on self-improvement.
 
 ---
 
